@@ -6,7 +6,7 @@ Student ID: 101194698
 2.5 Implementation- 3005 Final Project
 
 Instructions to run the program 
-1. Move to the directory where the project is.
+1. Move to the directory where the folder named 'project' is.
 2. Open two terminals.
 3. The first terminal will run the backend and the second terminal will run the frontend.
 
