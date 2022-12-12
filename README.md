@@ -27,6 +27,11 @@ Instructions to run the program
 Notes: 
 1. The 'remove from database' works. You might not get a message that the book has been deleted. Just refresh the page and search for the book again. It will not appear.
 2. Whenever you have to input a month, make sure it is of this form: January, August instead of 1 or 8 
+3. Before clicking on 'submit' an order, please make sure there are items in the cart and they are displayed by adding books. 
+
+Bonus features:
+I have included the bonus features in the project report. 
+Another bonus feature included: Items can be added and removed from cart.
 
 
 
