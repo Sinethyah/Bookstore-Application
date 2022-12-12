@@ -24,8 +24,9 @@ Instructions to run the program
     If not, type 'localhost:3000' in the browser to view the application.
     
 
-Note: The 'remove from database' works. You might not get a message that the book has been deleted. Just refresh the page and search for the book again. It will not appear.
-
+Notes: 
+1. The 'remove from database' works. You might not get a message that the book has been deleted. Just refresh the page and search for the book again. It will not appear.
+2. Whenever you have to input a month, make sure it is of this form: January, August instead of 1 or 8 
 
 
 
