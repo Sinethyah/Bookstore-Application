@@ -22,6 +22,9 @@ Instructions to run the program
    if it takes a while to install the dependencies)
    c. After it is done, then type 'npm start' on the terminal. The browser should automatically open with the application. 
     If not, type 'localhost:3000' in the browser to view the application.
+    
+
+Note: The 'remove from database' works. You might not get a message that the book has been deleted. Just refresh the page and search for the book again. It will not appear.
 
 
 
