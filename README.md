@@ -1,7 +1,5 @@
 # 3005finalproject
 
-Name: Kaniz Fathma Sinethyah
-Student ID: 101194698
 
 2.5 Implementation- 3005 Final Project
 
