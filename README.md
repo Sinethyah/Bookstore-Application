@@ -3,6 +3,9 @@
 
 2.5 Implementation- 3005 Final Project
 
+The web application runs on Node.js for Backend and React.js for Frontend. 
+The following technologies were used for the application: JavaScript, HTML, CSS, React and SQL. 
+
 Instructions to run the program 
 1. Move to the directory where the folder named 'project' is.
 2. Open two terminals.
