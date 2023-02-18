@@ -1,7 +1,4 @@
-# 3005finalproject
-
-
-2.5 Implementation- 3005 Final Project
+Bookstore Application
 
 The web application runs on Node.js for Backend and React.js for Frontend. 
 The following technologies were used for the application: JavaScript, HTML, CSS, React and SQL. 
